@@ -1,0 +1,9 @@
+[submodule "openframeworks/PiNaplpsPlayer"]
+	path = openframeworks/PiNaplpsPlayer
+	url = https://github.com/n1ckfg/PiNaplpsPlayer
+[submodule "server/nap-xtz-server"]
+	path = server/nap-xtz-server
+	url = https://github.com/n1ckfg/nap-xtz-server
+[submodule "threejs/nap-xtz"]
+	path = threejs/nap-xtz
+	url = https://github.com/n1ckfg/nap-xtz
