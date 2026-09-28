@@ -7,3 +7,9 @@
 [submodule "threejs/nap-xtz"]
 	path = threejs/nap-xtz
 	url = https://github.com/n1ckfg/nap-xtz
+[submodule "research/Telidon"]
+	path = research/Telidon
+	url = git@github.com:n1ckfg/Telidon
+[submodule "research/telidon-experimental"]
+	path = research/telidon-experimental
+	url = git@github.com:n1ckfg/telidon-experimental
